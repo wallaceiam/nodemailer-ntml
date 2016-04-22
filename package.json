@@ -30,8 +30,8 @@
     "mailcomposer": "3.7.0",
     "nodemailer-direct-transport": "3.0.7",
     "nodemailer-shared": "1.0.4",
-    "nodemailer-smtp-pool": "2.5.2",
-    "nodemailer-smtp-transport": "2.4.2",
+    "nodemailer-smtp-pool": "steveliles/nodemailer-smtp-pool",
+    "nodemailer-smtp-transport": "steveliles/nodemailer-smtp-transport",
     "socks": "1.1.9"
   },
   "devDependencies": {
